@@ -1,0 +1,7 @@
+n1 =int(input('digite aqui um valor:'))
+n2 =int(input('digite aqui outro valor:'))
+x = n1 + n2
+print('a soma entre {} e {} é igual a {}'.format(n1, n2, x))
+
+
+
