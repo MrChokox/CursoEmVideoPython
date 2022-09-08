@@ -1,0 +1,1 @@
+## Aulas do Curoso em Video de Python
